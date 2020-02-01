@@ -1,0 +1,7 @@
+{
+  "name": "comfacauca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
